@@ -1,0 +1,9 @@
+Respondent,abs_alpha,abs_beta,abs_bravo,abs_charlie,abs_delta
+1,30,10,15,50,45
+2,5,13,11,20,10
+3,16,32,8,64,100
+4,20,50,25,40,35
+,,,,,
+Mode,#N/A,#N/A,#N/A,#N/A,#N/A
+Median,18,22.5,13,45,40
+Mean,17.75,26.25,14.75,43.5,47.5
