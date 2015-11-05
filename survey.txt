@@ -1,0 +1,18 @@
+1. Please rank the above projects from most complex (5) to least complex (1)
+    1. Alpha
+    2. Beta
+    3. Bravo
+    4. Charlie
+    5. Delta
+2. How complex would you rate each project (1 = not very complex, 100 = very complex)
+3. What is your gender?
+    1. Female
+    2. Male
+4. Which race/ethnicity best describes you? (Please choose only one.)
+    1. American Indian or Alaskan Native
+    2. Asian / Pacific Islander
+    3. Black or African American
+    4. Hispanic American
+    5. White / Caucasian
+    6. Multiple ethnicity / Other (please specify)
+5. What was your major?
